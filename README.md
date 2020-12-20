@@ -14,8 +14,7 @@ There are four Activities in the app :
 4.Developers – displays the information about the developers.
 
     Sreenshot
-   ![Screenshot](/screensot/pic1.png)
-
+  ![Screenshot](/screenshot/pic1.png)
 
 
 
