@@ -14,8 +14,8 @@ There are four Activities in the app :
 4.Developers – displays the information about the developers.
 
     Sreenshot
-    
-  
+ ![photo5469875825278036913](https://user-images.githubusercontent.com/33866829/pic1.png)   
+  ![Tetris](thum.jpg)
 
 
 
