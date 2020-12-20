@@ -15,6 +15,9 @@ There are four Activities in the app :
 
     Sreenshot
   ![Screenshot](/screenshot/pic1.png)
+  ![Screenshot](/screenshot/pic2.png)
+  ![Screenshot](/screenshot/pic3.png)
+  
 
 
 
