@@ -9,8 +9,11 @@ QuizBee is an android based application, and enables the user to undertake a ser
 There are four Activities in the app :
 
 1.Main – displays Home Screen of application.
+
 2.Questions – displays MCQ’s and currents Score.
+
 3.Results – displays Results after finishing the quiz.
+
 4.Developers – displays the information about the developers.
 
     Sreenshot
